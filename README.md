@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Phạm Quang Thắng<br><br>🎓 I'm a graduate of FPT University, majoring in Software Engineering.<br>💼 I have 1 year of experience working in real-world software development processes.<br>💻 I specialize in backend development using C# and Java.<br>🚀 I'm actively seeking opportunities to contribute as a Backend Developer<br><br>📫 Feel free to connect with me or check out my projects!
+👋 Hi, I'm Phạm Quang Thắng<br><br>🎓 I'm a graduate of FPT University, majoring in Software Engineering.<br>💼 I have 2 year of experience working in real-world software development processes.<br>💻 I specialize in backend development using C# and Java.<br>🚀 I'm actively seeking opportunities to contribute as a Backend Developer<br><br>📫 Feel free to connect with me or check out my projects!
 
 
 ## 🌐 Socials:
